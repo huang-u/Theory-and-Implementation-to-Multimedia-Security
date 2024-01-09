@@ -1,0 +1,23 @@
+Extract Results for Shift-Histogram
+
+Attack Type: no_attack
+BER: 0.995574951171875
+
+Attack Type: gaussian_noise
+BER: 0.9960098266601562
+
+Attack Type: salt_and_pepper_noise
+BER: 0.9960517883300781
+
+Attack Type: mean_filter
+BER: 0.9956474304199219
+
+Attack Type: median_filter
+BER: 0.9954490661621094
+
+Attack Type: high_pass_filter
+BER: 0.9996910095214844
+
+Attack Type: rotate_image
+BER: 0.9961738586425781
+

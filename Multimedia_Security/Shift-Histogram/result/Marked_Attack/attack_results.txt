@@ -1,0 +1,23 @@
+Attack Results for Shift-Histogram
+
+Attack Type: no_attack
+PSNR: inf, SSIM: 1.0
+
+Attack Type: gaussian_noise
+PSNR: 20.234793949183754, SSIM: 0.28797570466845784
+
+Attack Type: salt_and_pepper_noise
+PSNR: 19.375420262126866, SSIM: 0.3861902361870542
+
+Attack Type: mean_filter
+PSNR: 35.78313296143123, SSIM: 0.9513094127750956
+
+Attack Type: median_filter
+PSNR: 38.046151500738816, SSIM: 0.9597900306300217
+
+Attack Type: high_pass_filter
+PSNR: 6.513647688202429, SSIM: 0.11993415931419263
+
+Attack Type: rotate_image
+PSNR: 10.574148895477233, SSIM: 0.2807596326144042
+

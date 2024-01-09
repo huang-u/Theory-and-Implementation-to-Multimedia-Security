@@ -1,0 +1,32 @@
+Results for Improved-LSB-2
+
+Attack Type: gaussian_noise
+PSNR: 20.2326
+SSIM between original and extracted watermark: 0.0025
+BER: 0.9024
+----------------------------------------
+Attack Type: salt_and_pepper_noise
+PSNR: 19.5094
+SSIM between original and extracted watermark: 0.0428
+BER: 0.8562
+----------------------------------------
+Attack Type: mean_filter
+PSNR: 35.7471
+SSIM between original and extracted watermark: 0.0016
+BER: 0.9032
+----------------------------------------
+Attack Type: median_filter
+PSNR: 37.9234
+SSIM between original and extracted watermark: 0.0311
+BER: 0.8579
+----------------------------------------
+Attack Type: high_pass_filter
+PSNR: 5.6937
+SSIM between original and extracted watermark: 0.0033
+BER: 0.9017
+----------------------------------------
+Attack Type: rotate_image
+PSNR: 10.5762
+SSIM between original and extracted watermark: 0.0058
+BER: 0.8902
+----------------------------------------
