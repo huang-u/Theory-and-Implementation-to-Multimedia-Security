@@ -1,0 +1,20 @@
+Attack Results for Improved-LSB-Steganography
+
+Attack Type: gaussian_noise
+PSNR: 20.21, SSIM: 0.42, BER: 0.9962
+
+Attack Type: salt_and_pepper_noise
+PSNR: 19.51, SSIM: 0.49, BER: 0.9903
+
+Attack Type: mean_filter
+PSNR: 28.80, SSIM: 0.90, BER: 0.9939
+
+Attack Type: median_filter
+PSNR: 30.54, SSIM: 0.93, BER: 0.9924
+
+Attack Type: high_pass_filter
+PSNR: 6.55, SSIM: 0.16, BER: 0.9994
+
+Attack Type: rotate_image
+PSNR: 10.53, SSIM: 0.18, BER: 0.9959
+
